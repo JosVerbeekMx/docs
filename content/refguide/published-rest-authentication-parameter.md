@@ -28,7 +28,7 @@ Specify where the parameter comes from. Possible values are
 
 ### 2.2 Name
 
-The name of the parameter. For a header parameter, this should be the name of the request header.
+The name of the parameter. For a header parameter, this should be the name of the request header. Keep in mind that not all webservers support underscores in a Header name.
 
 ### 2.3 Data Type
 
